@@ -1,20 +1,37 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌍 PKUK WorldTime  
 
-# Run and deploy your AI Studio app
+![HTML](https://img.shields.io/badge/HTML-5-orange)  
+![CSS](https://img.shields.io/badge/CSS-3-blue)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-teal)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
 
-This contains everything you need to run your app locally.
+A fully responsive website that shows **live time zones** for London (UK) and Islamabad (Pakistan), plus the **real-time GBP → PKR exchange rate**.  
 
-View your app in AI Studio: https://ai.studio/apps/drive/1oK99v_MjL1CAWHXGznNo2zH-gAz64eoX
+---
 
-## Run Locally
+## ✨ Features  
 
-**Prerequisites:**  Node.js
+✅ **Live Time Zones** (UK & Pakistan, auto-updates every second)  
+✅ **Live GBP → PKR Rate** (fetched via free API)  
+✅ **Responsive Layout** (desktop & mobile friendly)  
+✅ **Modern UI** (cards, shadows, rounded corners)  
+✅ **Optional:** Light/Dark Mode, Flags 🇬🇧 🇵🇰, Daily % Change  
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠 Tech Stack  
+
+- **HTML5**  
+- **CSS3** (Tailwind or Bootstrap for responsiveness)  
+- **JavaScript (ES6+)**  
+- **Currency API** (exchangerate.host, OpenExchangeRates, or similar)  
+
+---
+
+## 🚀 Getting Started  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/PakUK_TimeBridge.git
+   cd PakUK_TimeBridge
