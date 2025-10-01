@@ -1,0 +1,5 @@
+{
+  "name": "Global Time & Currency Dashboard",
+  "description": "A sleek, responsive dashboard displaying live time zones for London and Islamabad, and the real-time GBP to PKR currency exchange rate. Features a modern design with a dark mode toggle.",
+  "requestFramePermissions": []
+}
